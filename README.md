@@ -1,9 +1,6 @@
 <h1 align="center">Annyeonghaseyo, My name is Muhammad Rifki Bariq</h1>
 
-<p align="center">
-    <img src="https://github.com/bariqahay/bariqahay/raw/main/assets/126383306/34420f9a-5176-4849-a9d8-4da4aae61ee0.gif" alt="incredible-me-hello-there-gif" />
-</p>
-
+![incredible-me-hello-there-gif](https://github.com/bariqahay/bariqahay/assets/126383306/59ee7b92-1f0c-41a1-9c65-94ab57b98261)
 
 <h3 align="center">A college student from University of North Sumatra</h3>
 
